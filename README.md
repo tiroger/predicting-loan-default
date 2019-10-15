@@ -18,4 +18,4 @@ The statistics on LendingClub's website state that, as of December 31, 2016, 62.
 
 
 ### Project goal:
-Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm?
+Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm? Can we identify the most important features that determine the lean outcome?
