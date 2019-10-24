@@ -16,6 +16,6 @@ It offers the algorithm as a search tool for investors to find Notes they would 
 
 The statistics on LendingClub's website state that, as of December 31, 2016, 62.3 percent of borrowers report using their loans to refinance other loans or pay credit card debt.[11](https://www.lendingclub.com/info/statistics.action)
 
+### Project goal
 
-### Project goal:
 Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm? Can we identify the most important features that determine the lean outcome?
